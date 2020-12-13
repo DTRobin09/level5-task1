@@ -1,10 +1,10 @@
-package com.example.madlevel5task1.model
+package com.example.madlevel5task1.ui
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
 import com.example.madlevel5task1.NoteRepository
-import com.example.madlevel5task1.ui.Note
+import com.example.madlevel5task1.model.Note
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

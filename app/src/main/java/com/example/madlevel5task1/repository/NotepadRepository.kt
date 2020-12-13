@@ -4,7 +4,7 @@ import android.content.Context
 import androidx.lifecycle.LiveData
 import com.example.madlevel5task1.dao.NoteDao
 import com.example.madlevel5task1.database.NotepadRoomDatabase
-import com.example.madlevel5task1.ui.Note
+import com.example.madlevel5task1.model.Note
 
 class NoteRepository(context: Context) {
 
